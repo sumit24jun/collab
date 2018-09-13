@@ -1,1 +1,1 @@
-checking the diff functionatolity
+checking the diff functionatolity, creating conflict
