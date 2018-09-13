@@ -12,6 +12,7 @@ public class AppPage extends PageObject {
 	
 	public void addnewMethodbyNeha() {
 		sysout("I am working on this line in master")
+		sysout("this line is added on masteR")
 	}
 
 }
