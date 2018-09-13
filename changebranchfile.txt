@@ -1,2 +1,2 @@
 this is first line in change branch file1
-this is second line in change branch
+this is second since i am owner of file i can edit it anyhow
