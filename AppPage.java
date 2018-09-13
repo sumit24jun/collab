@@ -9,5 +9,9 @@ public class AppPage extends PageObject {
 	public void navigateToHome(){
 		openAt("https://www.sungardas.com/en-in/services/");
 	}
+	
+	public void addnewMethodbyNeha() {
+		
+	}
 
 }
