@@ -5,7 +5,7 @@ import net.thucydides.core.annotations.Step;
 
 public class AppPage extends PageObject {
 	
-	@StepNeha
+	@StepNehaaddremotely
 	public void navigateToHome(){
 		openAt("https://www.sungardas.com/en-in/services/");
 	}
