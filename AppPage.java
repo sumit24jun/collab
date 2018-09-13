@@ -5,9 +5,13 @@ import net.thucydides.core.annotations.Step;
 
 public class AppPage extends PageObject {
 	
-	@StepSumit
+	@StepNeha
 	public void navigateToHome(){
 		openAt("https://www.sungardas.com/en-in/services/");
+	}
+	
+	public void addnewMethodbyNeha() {
+		
 	}
 
 }
