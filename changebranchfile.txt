@@ -1,1 +1,2 @@
-this is first line in change branch file
+this is first line in change branch file1
+this is second line in change branch
